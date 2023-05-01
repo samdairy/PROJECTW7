@@ -1,0 +1,28 @@
+.section-one {
+    text-align: center;
+    background-color: papayawhip;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  
+  .section-two {
+    margin-top: 20px;
+    margin-bottom: 800px;
+  }
+  
+  .choice-text {
+    background-color: skyblue;
+    font-size: 20px;
+    font-weight: 60;
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+  
+  .city-name {
+    font-weight: 50;
+  }
+  
+  body {
+    background-image: url(./image/pexels-ithalu-dominguez-907485.jpg);
+    background-size: cove;
+  } 
